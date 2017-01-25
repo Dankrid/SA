@@ -1,1 +1,1 @@
-# SA
+Software Architecture project
